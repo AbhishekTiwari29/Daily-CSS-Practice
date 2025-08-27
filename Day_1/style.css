@@ -1,0 +1,46 @@
+/* Base Layout */
+body {
+    margin: 0;
+    background: #3F4869;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;  }
+
+  /* Circles */
+.circle {
+    width: 140px;
+    height: 140px;
+    border: 30px solid #E25C57;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.circle.half {
+    border-radius: 50% 0 50% 50%;
+    position: relative; /* keeps it in flex center */
+}
+
+.circle.full {
+    border-radius: 50%;
+}
+
+  /* Lines */
+.line {
+    width: 10px;
+    height: 40px;
+    background: #3F4869;
+    position: absolute;
+}
+
+.line.vertical {
+    top: 40%;
+    left: 50%;
+}
+
+.line.horizontal {
+    top: 48%;
+    left: 53%;
+    transform: rotate(90deg);
+}
