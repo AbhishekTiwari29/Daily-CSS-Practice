@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#F1E1BE;
+    position:relative; /* absolute elements ke liye anchor */
+  }
+
+  .square{
+    width:90px;
+    height:90px;
+    background:#7C7565;
+  }
+
+  .bar{
+    position:absolute;
+    background:#7C7565;
+  }
+
+  /* long bars */
+  .long{
+    width:70px;
+    height:270px;
+  }
+  .left{ top:0; left:0; }
+  .right{ bottom:0; right:0; }
+
+  /* short bars */
+  .short{
+    width:200px;
+    height:30px;
+  }
+  .top{ top:0; left:0; }
+  .bottom{ bottom:0; right:0; }
