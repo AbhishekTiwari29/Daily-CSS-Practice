@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    background:#A1E8A7;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .div {
+    position:absolute;
+    bottom:0px;
+    border:50px solid #D2495C;
+    width: 250px;
+    height: 250px;
+    box-sizing:border-box;
+  }
+    
+    .div::after , .div::before{
+      position:absolute;
+      top:50px;
+      left:-10px;
+      content:"";
+      background:#D2495C;
+      height:50px;
+      width:60px;
+    }
+    .div::before{
+      left:100px;
+    }
+  .square{
+    position:absolute;
+    bottom:0;
+    width:50px;
+    height:50px;
+    background:#A1E8A7;
+    
+  }
