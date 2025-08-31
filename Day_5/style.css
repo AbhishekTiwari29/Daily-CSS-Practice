@@ -1,0 +1,29 @@
+body{
+    background:#E8AD6D;
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  .square{
+    height:200px;
+    width:200px;
+    border:40px solid #000000;
+    box-sizing:border-box;
+    border-radius:0 70px  0 70px
+  }
+  .square::after , .square::before{
+    position:absolute;
+    background:#FFFFFF;
+    content:"";
+    height:40px;
+    width:40px;
+  }
+  .square::after{
+    top:0;
+    left: 664px;
+  }
+  .square::before{
+    top:160px;
+    right: 664px;
+  }
