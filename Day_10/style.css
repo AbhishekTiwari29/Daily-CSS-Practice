@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f9f9f9;
+  }
+
+  .diamond {
+    width: 100px;
+    height: 100px;
+    background: #e74c3c;
+    transform: rotate(45deg);
+  }
