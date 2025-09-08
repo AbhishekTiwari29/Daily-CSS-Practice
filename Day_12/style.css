@@ -1,0 +1,8 @@
+body{margin:0;background:#FAE29E;display:flex;}
+div{background:#4A9A86;height:100px;width:30px;position:relative;}
+  .first{top:160px;left:60px}
+  .second{top:130px;left:60px}
+  .third{top:100px;left:60px}
+  .fourth{top:100px;left:160px}
+  .fifth{top:70px;left:160px}
+  .sixth{top:40px;left: 160px;}
