@@ -1,0 +1,20 @@
+body {margin:0; background:#142032;}
+.sq {
+  display:flex; justify-content:center; align-items:center;
+  box-sizing:border-box;
+  height:60px; width:60px;
+  border:10px solid #00B1D4;
+  position:relative;
+}
+.sq div {background:#00B1D4; width:20px; height:20px;}
+.sq1 {top:40px; left:90px;}
+.sq2 {bottom:20px; left:250px;}
+.sq3 {top:80px; left:90px;}
+.big {
+  height:110px; width:110px;
+  box-sizing:border-box;
+  border:30px solid #00B1D4;
+  border-top:none; border-left:none;
+  position:relative;
+  left:200px; bottom:30px;
+}
