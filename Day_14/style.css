@@ -1,0 +1,27 @@
+  body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #B0C1F0;
+        }
+
+        .arrow {
+            display: flex;
+            align-items: center;
+        }
+
+        .chevron {
+            width: 40px;
+            height: 80px;
+            background-color: #3E5AA9;
+            clip-path: polygon(100% 0%, 0% 50%, 100% 100%);
+            margin: 0 -10px;
+        }
+
+        .shaft {
+            width: 200px;
+            height: 20px;
+            background-color: #3E5AA9;
+        }
