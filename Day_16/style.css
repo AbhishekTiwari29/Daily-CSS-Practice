@@ -1,0 +1,31 @@
+body{
+  background:#FFFBDA;
+  position:relative;
+  top:20;
+  margin:0;
+  display:flex;
+  align-items:center;
+  gap:45px;
+  flex-direction:column;
+}
+  .block{
+    height:55px;
+    width:350px;
+    background:#30383F;
+    border-radius:130px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+  }
+  .middle{
+    background:#D96C7B;
+  }
+  .circle{
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    background:#D96C7B;
+  }
+  .c1{
+    background:#30383F;
+  }
