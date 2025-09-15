@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    background:#FFF1F1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:40px;
+  }
+  .block{
+    background:#F2A3AB;
+    height:180px;
+    width:50px;
+  }
+.c{
+
+  width:100px;
+  box-sizing:border-box;
+  border:50px solid #84B9C7;
+  border-right:none;
+  border-radius:40%;
+  background:transparent;
+}
