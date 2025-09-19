@@ -1,0 +1,40 @@
+  body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #EDDF5A;
+    
+  }
+
+  .line, .bottom-line {
+    background: #3E4071;
+    position: absolute;
+  }
+
+  .line {
+    top: 30px;
+    width: 40px;
+    height: 160px;
+  }
+
+  .square {
+    width: 140px;
+    height: 140px;
+    border: 40px solid #3E4071;
+    border-top: none;
+    border-left: none;
+    transform: rotate(45deg);
+    background: transparent;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50px;
+    
+  }
+
+  .bottom-line {
+    top: 230px;
+    width: 280px;
+    height: 40px;
+  }
