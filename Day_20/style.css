@@ -1,0 +1,8 @@
+body{
+    background:#30383F;margin:0;display:flex;justify-content:center;align-items:center;}
+.ring{height:100px;width:100px;background:#5AA4B7;border-radius:50%;display:flex;justify-content:center;align-items:center;}
+  .line{background:#FFFFFF;position:absolute;}
+  .l1{width:670px;height:36px;left:0;border-radius:0 130px 130px 0}
+  .l2{height:36px;width:110px;overflow:none;}
+.innerCircle{background:#ffffff;height:60px;width:60px;}
+  .l3{height:36px;width:670px;right:0;border-radius:130px 0 0 130px;}
