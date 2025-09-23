@@ -1,0 +1,4 @@
+body{background:#F7FCDC;margin:0;display:flex;justify-content:center;align-items:center;}
+  .square{box-sizing:border-box;height:260px;width:280px;border:20px solid #9F6766;border-bottom:none;display:flex;justify-content:center;align-items:center;}
+  .innerSquare{border:20px solid #9F6766;width:140px;height:100px;position:relative;top:40;border-bottom:none;}
+  .rect{background:#8AB8B6;position:absolute;top:80; width:280px;height:150px;}
