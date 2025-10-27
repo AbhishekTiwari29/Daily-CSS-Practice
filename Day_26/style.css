@@ -1,0 +1,3 @@
+body{background:#FFFCE2;margin:150px;display:flex;justify-content:center;align-items:center;}
+.inner{position:absolute;;background:#C1A162;height:220px;width:300px;border-radius:150px 150px 0 0 } 
+.outer{box-sizing:border-box;height:220px;width:300PX;border:80px solid #7C3219;position:absolute;border-radius:150px 150px 0 0;border-bottoM:none;clip-path:polygon(0 0,100% 0,100% 68%,0 68%);}
