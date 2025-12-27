@@ -1,0 +1,7 @@
+.main{height: 300px;width: 400px;background:#F9DDC6;display:flex;justify-content:center;align-items:center;}
+div{background:#594C94;position:absolute;}
+.box{height:60px;width:60px;}
+.b1{top:70px;right:120px;}
+.b2{bottom:70px;left:120px;}
+.b3{top:90px;left:140px;border-radius:100% 0 0}
+.b4{bottom:90px;right:140px;border-radius:0 0 100%}
