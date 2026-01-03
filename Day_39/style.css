@@ -1,0 +1,7 @@
+*{margin:0px;}
+.main{background:#84B9C7;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.div{border-radius:50%;}
+.middle{background:#ECEBEB;height:200px;width:210px;}
+.circle{background:#ECEBEB;height:100px;width:100px;position:relative;}
+.c1{left:42px;}.c2{right:42px;}
+.blank{height:100px;width:100px;position:absolute;background:#84B9C7;}.b1{top:0px;}.b2{bottom:450px;}
