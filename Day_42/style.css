@@ -1,0 +1,9 @@
+.main{background:#F3EAD2;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.hori,.vert{background:#C36768;}
+.hori{height:260px;width:40px;}
+.vert{width:260px;height:40px;}
+.box{height:60px;width:60px;background:#38483C;}
+.bar{height:40px;width:40px;background:#38483C;}
+.b1{bottom:0;}
+.b2{right:0;}
