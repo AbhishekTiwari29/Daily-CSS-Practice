@@ -1,0 +1,12 @@
+.main{background:#F2EAA8;height: 300px;width: 400px;}
+div{position:absolute;}
+.rect{height:40px;width:90px;}
+.line{width:40px;height:80px;}
+.r1{top:40px;left:35px;background:#EE7667;}
+.r2{top:40px;right:35px;background:#EE7667;}
+.r3{bottom:40px;right:35px;background:#84BE8D;}
+.r4{bottom:40px;left:35px;background:#84BE8D;}
+.l1{top:50px;left:60px;background:#EE7667;}
+.l2{top:50px;right:60px;background:#EE7667;}
+.l3{bottom:50px;right:60px;background:#84BE8D;}
+.l4{bottom:50px;left:60px;background:#84BE8D;}
