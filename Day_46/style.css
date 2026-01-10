@@ -1,0 +1,12 @@
+.main{background:#F4DA64;display:flex;align-items:Center;justify-content:center;height: 300px;width: 400px;}
+div{background:#E25C57;position:absolute;}
+.circle{height:30px;width:30px;border-radius:50%;}
+.c1{top:45px}.c2{bottom:45px;}.c3{left:95px;}.c4{right:95px;}
+.box{height:60px;width:60px;}
+.line{height:60px;width:20px;}
+.l1,.l3{transform:rotate(45deg)}
+.l4,.l2{transform:rotate(-45deg)}
+.l1{top:55px;right:120px;}
+.l2{bottom:55px;right:125px;}
+.l3{bottom:55px;left:125px;}
+.l4{top:55px;left:125px;}
