@@ -1,0 +1,7 @@
+.main{background:#45B45B;margin:0px;height: 300px;width: 400px;}
+div{position:absolute;background:#194247;}
+.box,.circle{height:50px;width:50px;}
+.b1,.b2,.r1{left:20px;}.b1,.b3{top:30px;}.b2,.b4{bottom:30px;}
+.b3,.b4,.r2{right:20px;}
+.rect{height:120px;width:50px;}.r1,.r2{top:90px;}
+.circle{border-radius:50%;top:30px;left:175px;}
