@@ -1,0 +1,10 @@
+.main{background:#FEF6E2;display:flex;justify-content:Center;align-items:center;margin:0;height: 300px;width: 400px;}
+div{background:#AC342E;position:absolute;}
+.hori{height:20px;width:400px;}
+.vert{width:20px;height:300px;}
+.v1{left:140px}
+.v3{right:140px}
+.h1{top:90px}
+.h3{bottom:90px}
+.circle{height:180px;width:180px;border-radius:50%;background:#FEF6E2;}
+.inner{height:60px;width:60px;border-radius:50%}
