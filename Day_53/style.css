@@ -1,0 +1,6 @@
+.main{background:#B0ACD5;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.outer,.inner,.inner{border-radius:50%;position:absolute;}
+.outer{height:200px;width:200px;background:#6A5885;top:100}
+.bar{height:100px;width:400PX;top:200px;background:#B0ACD5;position:absolute;}
+.inner{height:80px;width:80px;background:#B0ACD5;}
+.b1{height:100px;width:20px;background:#B0ACD5;position:absolute;top:150px;}
