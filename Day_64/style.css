@@ -1,0 +1,6 @@
+.main{background:#2B2A4A;display:flex;justify-content:center;align-items:center;height: 300px;width:
+400px;}
+.back,.outer{background:#BA463E;}
+.back{height:200px;width:80px;border-radius:130px 130px 0 0 ;bottom:450px;position:absolute;}
+.outer{height:80px;width:200px;border-radius:130px;display:flex;justify-content:center;align-items:center;position:absolute;;position:absolute;gap:20px}
+.circle{height:40px;width:40px;border-radius:50%;background:#2B2A4A;}
