@@ -1,0 +1,7 @@
+.main{background:#AC778B;display:flex;justify-content:center;align-items:center;}
+.line{height:700px;width:20px;background:#FFFFFF;}
+.box{position:absolute;height:60px;width:60px;border:20px solid #FFFFFF;border-radius:30px;background:#AC778B;}
+.b1,.b2{left:-50px;}
+.b3,.b4{right:-50px;}
+.b1,.b3{top:20px;}
+.b2,.b4{bottom:20px;}
