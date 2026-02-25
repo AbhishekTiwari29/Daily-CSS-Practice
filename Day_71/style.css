@@ -1,0 +1,10 @@
+.main{background:#9F6766;display:flex;margin:0px;justify-content:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.bar{height:190px;width:60px;background:#BDE4C1;}
+.bottom{height:0px;width:0px; border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 30px solid #BDE4C1; top:190px}
+.side{height:0px;width:0px;border-top:20px solid transparent;border-bottom:20px solid transparent;
+top:130px}
+.s1{border-left:20px solid #BDE4C1;right:130px;}
+.s2{border-right:20px solid #BDE4C1;left:130px}
