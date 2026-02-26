@@ -1,0 +1,11 @@
+body{background:#12219A;}
+div{position:absolute;}
+.square,.circle{height:50px;width:50px;}
+.circle{background:#DB5EAD;border-radius:50%;}
+.square{background:#70CCDB;}
+.s1,.s2,.c1,.c2{top:20px;}
+.s3,.s4,.c3,.c4{bottom:20px;}
+.s1,.c3{left:20px;}
+.s2,.c4{right:20px;}
+.s3,.c1{left:80px;}
+.s4,.c2{right:80px;}
