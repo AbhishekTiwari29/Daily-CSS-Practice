@@ -1,0 +1,11 @@
+.main{background:#DB5EAD;height: 300px;width: 400px;}
+div{position:absolute}
+.bar{height:40px;width:220px;border:20px solid #12219A;left:70px;top:20px;}
+.bar2{width:40px;height:220px;border:20px solid #12219A;left:70px;top:20px;}
+.square{height:130px;width:130px;background:#12219A;bottom:20px;right:70px;}
+.line{height:50px;width:20px;background:#12219A;}
+.l1{left:100px;}
+.l2{left:160px;}
+.hori{height:20px;width:50px;background:#12219A}
+.h1{top:100px;}
+.h2{top:160px;}
