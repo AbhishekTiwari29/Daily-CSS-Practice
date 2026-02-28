@@ -1,0 +1,5 @@
+.main{background:#0098D1;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.bottom{height:160px;width:400px;background:#2F434E;bottom:0px;}
+.circle{height:240px;width:240px;border-radius:50%;background:#0098D1;}
+.bar{height:50px;width:80px;background:#0098D1;bottom:0px;}
