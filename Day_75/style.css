@@ -1,0 +1,10 @@
+.main{background:#AC342E;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;background:#FFEDB7}
+.rectangle{height:160px;width:320px;}
+.piller{height:60px;width:50px;}
+.p1,.p2{top:20px;}
+.p3,.p4{bottom:20px;}
+.p1{left:90px;}
+.p2{right:40px;}
+.p3{left:40px;}
+.p4{right:90px;}
