@@ -1,0 +1,5 @@
+body{background:#3C8B98;margin:0px;}
+.line{height:40px;width:100%;background:#F4DA64;}
+.fig{position:absolute;height:1500px;width:200px;border:40px solid #F4DA64;border-radius:130px;}
+.f1{left:-150px;top:60px;}
+.f2{right:-150px;top:60px;}
