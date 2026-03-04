@@ -1,0 +1,10 @@
+.main{background:#3C8B98;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute}
+.line{background:#BFFFAE;height:50px;width:290px;bottom:40px;}
+.bar{background:#BFFFAE;height:100px;width:50px;bottom:70px;}
+.b1{left:55px;}
+.b3{right:55px;}
+.b{top:40px;height:80px;}
+.b4,.b5{background:#FFFFFF;height:80px;}
+.b4{left:115px;top:40px;}
+.b5{right:115px;top:40px;}
