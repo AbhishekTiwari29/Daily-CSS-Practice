@@ -1,0 +1,5 @@
+.main{background:#983C50;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.circle{height:180px;width:180px;background:#000000;border-radius:50%;}
+.c1,.inner{border:30px solid #FFFFFF;clip-path:inset(50% 0 0 0);}
+.inner{border-radius:50%;height:80px;width:80px;clip-path:inset(50% 0 0 0);}
