@@ -1,0 +1,10 @@
+.main{background:#F3AC3C;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.circle{background:#222222;border-radius:50%;height:100px;width:100px;}
+.c1,.c2{top:40px;}
+.c3,.c4{bottom:40px;}
+.c1,.c3{left:50px;}
+.c2,.c4{right:50px;}
+.bar{background:#FFFFFF;height:60px;width:260px;border-radius:100px;}
+.b1{top:60px;}
+.b2{bottom:60px;}
