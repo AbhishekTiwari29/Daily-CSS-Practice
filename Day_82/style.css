@@ -1,0 +1,7 @@
+.main{background:#7D5E8B;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.square{height:120px;width:120px;background:#E38F66;position:absolute}
+.s1{top:30px;}
+.s2,.s3,.s4{bottom:480px;}
+.s2{left:30px}
+.s4{right:1150px}
+.s3{background:#FFEAAB;}
