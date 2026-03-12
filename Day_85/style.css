@@ -1,0 +1,9 @@
+.main{background:#48BF7D;height: 300px;width: 400px;}
+div{position:absolute;background:#EFF8FE;}
+.b1,.b3,.b2{height:60px;width:250px;}
+.b1{left:20px;top:20px;}
+.b2{bottom:20px;right:20px;}
+.b3{top:120px;left:80px;}
+.b4,.b5{height:150px;width:110px;}
+.b4{left:20px;top:40px;}
+.b5{right:20px;bottom:40px}
