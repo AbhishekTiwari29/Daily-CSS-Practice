@@ -1,0 +1,5 @@
+.main{background:#8BFA94;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.box{height:270px;width:200px;background:#556D7F;}
+.b1{height:150px;width:50px;top:50px;left:20px;}
+.b1,.b2{position:relative;background:#8BFA94;}
+.b2{height:200px;width:50px;left:130px;bottom:80px}
