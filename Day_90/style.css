@@ -1,0 +1,8 @@
+.main{background:#3A2568;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.box{height:200px;width:220px;border:20px solid #9D92C8;box-sizing:border-box;border-bottom:none;border-top:none;}
+.circle{height:100px;width:100px;border-radius:50%;background:#9D92C8;position:relative;left:40px;}
+.c1{margin-top:-5px;}
+.c2{margin-top:10px;}
+.line{height:20px;width:40px;background:#9D92C8;position:absolute;}
+.l1,.l2{top:140px;}
+.l2{right:1230px;}
