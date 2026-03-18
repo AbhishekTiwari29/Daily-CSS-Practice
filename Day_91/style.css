@@ -1,0 +1,7 @@
+.main{background:#323138;display:flex;justify-content:Center;align-items:center;height: 300px;width: 400px;}
+body{background:#323138}
+div{position:absolute;}
+.hori,.vert{background:#FFFFFF;}
+.hori{height:60px;width:400px;}
+.vert{height:300px;width:120px;}
+.square{height:20px;width:120px;border:70px solid #328FC1;}
