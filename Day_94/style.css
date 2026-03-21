@@ -1,0 +1,14 @@
+.main{background:#983C50;display:flex;justify-content:center;align-items:center;height: 300px;width:400px}
+.bar{height:30px;width:110px;background:#3D101A;}
+div{position:absolute;}
+.circle{height:30px;width:30px;background:#FFFFFF;border-radius:50%;}
+.c1{top:15px;}
+.c2{top:55px;}
+.c3{top:95px;}
+.c4{bottom:15px;}
+.c5{bottom:55px;}
+.c6{bottom:95px;}
+.c7{left:105px;}
+.c8{right:105px;}
+.c9{left:65px;}
+.c10{right:65px;}
