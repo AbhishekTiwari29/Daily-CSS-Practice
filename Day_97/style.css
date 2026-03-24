@@ -1,0 +1,6 @@
+.main{background:#4A9A86;height: 300px;width: 400px;}
+div{position:absolute;}
+.circle{height:170px;width:150px;border-radius:50%;border:50px solid #FAE29E;right:-25px;top:-5px;clip-path:inset(50% 50% 0 0)}
+.top,.bar{background:#FAE29E;}
+.top{height:70px;width:50px;right:175px;top:35px;}
+.bar{height:50px;width:100px;right:150px;top:85px;}
