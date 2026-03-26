@@ -1,0 +1,11 @@
+.main{background:#A82828;height: 300px;width: 400px;}
+div{position:absolute;background:#FEF6E2;}
+.semi{height:140px;width:140px;border-radius:50%;}
+.s1,.s2,.s3,.s4{clip-path:inset(0 0 50% 0);}
+.s5,.s6,.s7,.s8{clip-path:inset(50% 0 0 0);}
+.s1,.s2{bottom:-70px;}
+.s3,.s4{bottom:90px;}
+.s5,.s6{top:-70px;}
+.s7,.s8{top:90px;}
+.s1,.s3,.s5,.s7{left:30px;}
+.s2,.s4,.s6,.s8{right:30px;}
