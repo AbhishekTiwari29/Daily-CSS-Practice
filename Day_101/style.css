@@ -1,0 +1,5 @@
+body{margin:0;}
+.main{background:#12219A;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.box{height:180px;width:240px;border:30px solid #70CCDB;}
+.inner{height:170px;width:60px;border:30px solid #70CCDB;border-radius:130px;position:absolute;left:140px;top:0px;}
+.bar{height:30px;width:300px;top:0px;position:absolute;background:#12219A;}
