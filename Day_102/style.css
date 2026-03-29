@@ -1,0 +1,9 @@
+.main{background:#6319FF;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.box{height:160px;width:160px;background:#FB8C79;}
+.inner{height:60px; width:60px; background:#6319FF;bottom:0px;right:0px;}
+.outer{height:100px;width:100px;background:#FFFFFF;}
+.o1,.o2{top:30px;}
+.o1,.o3{left:80px;}
+.o2{ right:80px;}
+.o3{bottom:30px;}
