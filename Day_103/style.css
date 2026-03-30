@@ -1,0 +1,4 @@
+.main{background:#71366C;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.circle{height:90px;width:90px;border-radius:50%}
+.c2{border:40px solid #EDDF5A;}
+.c1{background:#EDDF5A;margin:40px}
