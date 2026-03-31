@@ -1,0 +1,6 @@
+.main{background:#D96C7B;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+div{position:absolute;}
+.rect{height:170px;width:300px;border:40px solid #4C455B;box-sizing:border-box;bottom:20px;}
+.circle{Height:100px;width:100px;border-radius:50%;border:40px solid #4C455B;top:20px;clip-path:inset(0 0 45% 0);}
+.bar{height:50px;width:100px;background:#D96C7B;top:110px;}
+.middle{height:60px;width:60px;background:#4C455B;border-radius:50%;bottom:15px;left:80px}
