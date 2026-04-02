@@ -1,0 +1,10 @@
+.main{background:#F2EAA8;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.square{height:80px;width:80px;background:#73AB7C;}
+.s1{top:30px;}
+.s2{bottom:30px;}
+.s3{left:80px;}
+.s4{right:80px;}
+.circle{height:60px;width:60px;background:#EE7667;border-radius:50%}
+.c1{right:90px;top:40px;}
+.c2{left:90px;bottom:40px;}
