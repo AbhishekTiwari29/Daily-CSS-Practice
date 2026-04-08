@@ -1,0 +1,3 @@
+.main{background:#4A9A86;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+.box{height:200px;width:100px;border:20px solid #FAE29E;}
+.middle{height:70px;width:60px;position:absolute;border:50px solid #FAE29E;border-left:none;border-right:none;border-radius:10%}
