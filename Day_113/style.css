@@ -1,0 +1,9 @@
+.main{background:#394257;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;position: absolute;}
+.circle{height:140px;width:140px;background:#F0CD48;border-radius:50%;}
+.box,.block{background:#394257;position:absolute;}
+.box{height:40px;width:40px;}
+.b1{left:140px;top:90px}
+.b2{right:140px;bottom:90px;}
+.block{height:70px;width:70px;}
+.b3{top:100px;left:150px;}
+.b4{bottom:100px;right:150px;}
