@@ -1,0 +1,11 @@
+.main{background:#588A95;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.tri{height:0px;width:0px;border-top: 100px solid transparent;
+  border-bottom: 100px solid transparent;
+  border-left: 100px solid #E8AD6D;}
+.t1{left:55px;}
+.t2{left:135px;}
+.squ{height:110px;width:110px;background:#2F5A76;}
+.s1,.s2{right:55px;}
+.s1{top:30px;}
+.s2{bottom:30px;}
