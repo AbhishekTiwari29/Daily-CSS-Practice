@@ -1,0 +1,4 @@
+.main{background:#EE7667;display:flex;justify-content:center;align-items:center;height:300px;width:400px}
+div{position:absolute;}
+.upper{height:30px;width:180px;border:30px solid #F2EAA8;border-left:none;border-radius:0 130px 130px 0;top:60px;}
+.line{height:180px;width:30px;background:#F2EAA8;}
