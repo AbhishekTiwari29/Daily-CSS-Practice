@@ -1,0 +1,6 @@
+.main{background:#E5E5E3;display:flex;justify-content:center;align-items:center;height:300px;width: 400px;}
+div{position:absolute;background:#E75044;}
+.middle{height:250px;width:80px;border-radius:130px;}
+.bottom{height:50px;width:140px;bottom:25px;}
+.center{height:80px;width:250px;border-radius:80px;bottom:95px;clip-path:inset(0 0 40% 0)}
+.line{height:50px;width:30px;background:#E5E5E3;left:130px;}
