@@ -1,0 +1,8 @@
+.main{background:#2F5C24;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.box{height:40px;width:180px;border:30px solid #EBCB58;}
+.b1{top:65px;border-left:none;border-radius:0 130px 130px 0;left:110px;}
+.b2{bottom:65px;border-right:none;border-radius:130px 0 0 130px;right:110px;}
+.square{height:70px;width:70px;background:#EBCB58;}
+.s1{top:25px;left:100px;}
+.s2{bottom:25px;right:100px;}
