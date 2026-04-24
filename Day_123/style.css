@@ -1,0 +1,14 @@
+.main{background:#A34F50;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.circle{height:200px;width:200px;border-radius:50%;;background: conic-gradient(
+    #FFFFFF 0% 25%,
+    #F7CB71 25% 50%,
+    #FFFFFF 50% 75%,
+    #F7CB71 75% 100%
+  )}
+.inner{height:120px;width:120px;border-radius:50%;background:conic-gradient(
+  #FFFFFF 0% 25%,
+    #111111 25% 50%,
+    #FFFFFF 50% 75%,
+    #111111 75% 100%
+)}
