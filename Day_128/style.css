@@ -1,0 +1,4 @@
+.main{background:#E3DCD1;display:flex;justify-content:center;align-items:center;height: 300px;width: 400px;}
+div{position:absolute;}
+.rectangle{height:80px;width:280px;border:30px solid #0D2A58;bottom:40.5px;background:conic-gradient(#5CF2F7 0% 50%,#D95F5B 50% 100%)}
+.circle{height:80px;width:80px;border-radius:50%;background:#E3DCD1;border:30px solid #0D2A58;top:100;clip-path:inset(0 0 50% 0);}
