@@ -1,0 +1,5 @@
+.main{background:#394257;margin:20px;height: 300px;width: 400px;}
+.square{height:60px;width:60px;background:#EED9D9;box-shadow:120px 20px #EED9D9,120px 120px #EED9D9,120px 80px #EED9D9,180px 120px #EED9D9,180px 80px #EED9D9,180px 180px #EED9D9,240px 140px #EED9D9,300px 200px #EED9D9,60px 60px #EED9D9;}
+.box{height:40px;width:60px; background:#668884;position:absolute;}
+.b1{top:100px;left:100;}
+.b2{bottom:530px;right:140;}
