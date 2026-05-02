@@ -1,0 +1,8 @@
+.main{background:#525142;margin:0px;height: 300px;width: 400px;}
+.line{height:300px;width:60px;}
+div{position:absolute;}
+.l1,.b1{background:#E25C57;left:60px;}
+.l2,.b2{background:#84BE8D;right:60px;}
+.bar{height:60px;width:150px;border-radius:130px;}
+.b1{left:80px;top:50px;}
+.b2{right:80px;top:120px;}
