@@ -1,0 +1,4 @@
+.main{background:#FFFFFF;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+div{position:absolute;border-radius:50%}
+.ring{height:140px;width:140px;border:20px solid #000000;left:50px;}
+.circle{height:180px;width:180px;background:#B53733;clip-path:inset(50% 0 0 0);right:50px;top:25px;}
