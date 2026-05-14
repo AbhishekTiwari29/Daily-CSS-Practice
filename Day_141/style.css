@@ -1,0 +1,7 @@
+.main{background:#1A4341;display:flex;justify-content:center;align-items:center;height:300px;width:400px}
+.box{height:200px;width:200px;background:#EBE77E;}
+.circle{height:140px;width:140px;position:absolute;border-radius:50%;background: linear-gradient(
+        to top,
+        #1A4341 50%,
+        #84BE8D 50%
+    );}
