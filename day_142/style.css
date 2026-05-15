@@ -1,0 +1,4 @@
+.main{background:#1F1446;display:flex;justify-content:center;align-items:center;height:300px;width:400px}
+.bar{position:absolute;height:50px;width:80px;border:30px solid #FFCA00;border-top:none;border-left:35px solid #FFCA00;border-right:35px solid #FFCA00;}
+.b1{top:20px;}
+.b2{top:210px;}
