@@ -1,0 +1,3 @@
+.main{background:#CF596A;display:flex;justify-content:center;align-items:center;gap:23px;height:300px;width:400px}
+.box{height:119.5px;width:65px;border:25px solid #F3EAD2;}
+.square{position:absolute;height:24px;width:22px;background:#F3EAD2;box-shadow:-25px 0px #CF596A,25px 0px #CF596A}
