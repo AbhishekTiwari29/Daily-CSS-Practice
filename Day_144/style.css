@@ -1,0 +1,7 @@
+.main{background:#594C94;display:flex;justify-content:center;align-items:center;height: 300px;width:400px;position:absolute}
+.box{height:260px;width:360px;background:#EEEDED;}
+.semicircle{position:absolute;height:180px;width:180px;border-radius:50%;background:#594C94;clip-path:inset(0 0 50% 0);}
+.s1{bottom:-50px;}
+.s2{top:-50px;transform:rotate(180deg)}
+.s3{left:-50px;transform:rotate(90deg)}
+.s4{right:-50px;transform:rotate(270deg)}
