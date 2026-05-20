@@ -1,0 +1,4 @@
+.main{background:#30383F;display:flex;justify-content:center;align-items:center;height:300px;width:400px}
+.box{height:100px;width:160px;border:50px solid #F4DCBF;}
+.line{height:300px;width:60px;position:absolute;background:#30383F;}
+.bar{position:absolute;height:25px;width:60px;background:#F4DCBF;top:100px;left:20px;box-shadow: 0px 75px #F4DCBF,300px 0px #F4DCBF,300px 75px #F4DCBF;}
