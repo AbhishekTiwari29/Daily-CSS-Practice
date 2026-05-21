@@ -1,0 +1,2 @@
+.main{background:#32360E;display:flex;justify-content:center;align-items:center;height:300px;width:400px;position:absolute;}
+.box{height:60px;width:60px;background:#E8AD6D;position:absolute;top:30px;right:80px;box-shadow:0px 60px #E8AD6D,-60px 60px #E8AD6D,-120px 120px #E8AD6D,-60px 120px #E8AD6D,-180px 180px #E8AD6D,-120px 180px #E8AD6D,0px 120px #A84A4B,0px 180px #A84A4B,-60px 180px #A84A4B}
