@@ -1,0 +1,5 @@
+.main{background:#3157B4;display:flex;justify-content:center;align-items:center;height:300px;width:400px}
+.box,.line,.square{position:absolute;}
+.box{height:130px;width:120px;background:#84BE8D;top:35px;left:90px;box-shadow:100px 100px #84BE8D;}
+.line{height:16px;width:200px;background:#060F55;left:0px;top:155px;box-shadow:200px -27px #060F55;}
+.square{height:40px;width:40px;background:#060F55;top:120px;left:170px;box-shadow:20px 20px #060F55;}
