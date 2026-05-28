@@ -1,0 +1,6 @@
+.main{background:#534848;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+div{position:absolute;}
+.bar{height:110px;width:280px;background:#64DFE3;border-radius:130px;}
+.sbar{height:80px;width:170px;background:#31696B;border-radius:130px;}
+.circle{height:60px;width:60px;background:#FFFFFF;border-radius:50%;left:125px;box-shadow:90px 0px #FFFFFF,180px 0px #64DFE3,-90px 0px #64DFE3;}
+.semicircle{height:200px;width:200px;background:#64DFE3;border-radius:50%;clip-path:inset(0 0 50% 0);top:215px;}
