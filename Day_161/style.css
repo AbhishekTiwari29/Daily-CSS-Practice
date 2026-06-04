@@ -1,0 +1,6 @@
+.main{background:#FAE29E;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+div{background:#4A9A86;position:absolute}
+.cylinder{height:200px;width:230px;}
+.ring{height:200px;width:100px;border-radius:50%;border:20px solid #4C4C6B;}
+.r1{left:20px;}
+.r2{right:20px;}
