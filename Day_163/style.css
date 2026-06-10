@@ -1,0 +1,3 @@
+.main{background:#EBF6F0;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.circle{height:80px;width:80px;border-radius:50%;border:31px solid #4C4C6B;outline:30px solid #4A9A86;}
+.tri{position:absolute;height:0;width:0;border-top:200px solid transparent;border-left:200px solid transparent;border-right:200px solid transparent;border-bottom:200px solid #EBF6F0;}
