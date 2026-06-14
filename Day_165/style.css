@@ -1,0 +1,6 @@
+body{margin:0}
+.main{background:#FFFFFF;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.circle{height:100px;width:100px;border-radius:50%;border:50px solid #000000;}
+.bar{position:absolute;height:90px;width:30px;background:#000000;}
+.bar1{left:100px;box-shadow:170px 0px #000000;}
+.bar2{transform:rotate(90deg);top:20px;box-shadow:170px 0px #000000;}
