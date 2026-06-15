@@ -1,0 +1,5 @@
+.main{background:#2D696F;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.circle{height:200px;width:200px;background:#81A5A9;border-radius:0 50% 0 50%;}
+.bar{position:absolute;height:20px;width:300px;background:#2D696F;}
+.b2{transform:rotate(90deg);}
+.ring{position:absolute;height:30px;width:30px;background:#2D696F;border-radius:50%;top:80px;left:130px;box-shadow:110px 110px #2D696F;}
