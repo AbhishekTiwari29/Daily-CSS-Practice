@@ -1,0 +1,7 @@
+.main{background:#7C3219;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.box{height:160px;width:160px;background:#F7CB71;}
+div{position:absolute;}
+.rect{height:40px;width:50px;background:#7C3219;left:120px;box-shadow:110px 0px #7C3219;}
+.rect2{height:50px;width:40px;background:#7C3219;top:70px;box-shadow:0px 110px #7C3219;}
+.bar{height:40px;width:200px;background:#F7CB71;border-radius:130px;}
+.b2{transform:rotate(90deg);}
