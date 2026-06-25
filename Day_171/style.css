@@ -1,0 +1,6 @@
+.main{display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.semi{height:40px;width:40px;border:40px solid #328FC1;position:absolute;border-radius:50%;}
+.s1{clip-path:inset(50% 0 0 0);top:120px;left:100px;}
+.s2{clip-path:inset(0 0 50% 0);top:60px;left:180px;}
+.s3{clip-path:inset(0 50% 0 0);top:50px;left:110px;}
+.s4{clip-path:inset(0 0 0 50%);top:130px;left:170px;}
