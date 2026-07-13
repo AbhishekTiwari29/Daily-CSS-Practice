@@ -1,0 +1,5 @@
+.main{background:#B46C31;display:flex;justify-content:center;align-items:center;margin:0px;height:300px;width:400px;}
+div{position:absolute;}
+.line{height:20px;width:400px;background:#331D1D;top:30px;}
+.box{height:240px;width:150px;background:#FEF8BB;}
+.triangle{height:0px;width:0px;border-left:80px solid transparent;border-right:80px solid transparent;border-bottom:60px solid #B46C31;top:210px;}
