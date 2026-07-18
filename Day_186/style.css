@@ -1,0 +1,8 @@
+.main{background:#469DBA;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.box,.rect{border:20px solid #394257;position:absolute;}
+.box{height:80px;width:150px;}
+.rect{height:40px;width:150px;background:#FAE29E;}
+.r1{top:30px;}
+.r2{top:190px;}
+.r3{left:-65px;}
+.r4{left:275px;}
