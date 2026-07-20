@@ -1,0 +1,7 @@
+.main{background:#682988;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.box{height:80px;width:80px;}
+.poly{height:180px;width:180px;border-radius:40px}
+.poly,.box{border:20px solid #F7EC7D;}
+div{position:absolute;}
+.bar{height:110px;width:300px;background:#682988;}
+.b2{transform:rotate(90deg)}
