@@ -1,0 +1,5 @@
+.main{background:#4A9A86;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+div{position:absolute;}
+.box{height:80px;width:80px;background:#FAE29E;top:60px;left:210px;box-shadow:-100px 100px #FAE29E;}
+.line{height:30px;width:140px;background:#EBF6F0;top:60px;left:50px;box-shadow:160px 150px #EBF6F0;}
+.lineshort{width:100px;height:30px;background:#EBF6F0;top:110px;left:90px;box-shadow:120px 50px #EBF6F0}
