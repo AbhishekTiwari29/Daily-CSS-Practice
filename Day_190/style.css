@@ -1,0 +1,5 @@
+.main{background:#2D3464;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+div{position:absolute;}
+.line,.box{background:#F7EC7D;}
+.line{height:240px;width:20px;left:30px;box-shadow:320px 0 #F7EC7D;}
+.box{height:20px;width:20px;top:30px;left:70px;box-shadow:40px 0px #F7EC7D,80px 0px #F7EC7D,120px 0px #F7EC7D,160px 0px #F7EC7D,200px 0px #F7EC7D,240px 0px #F7EC7D,0px 220px 0px #F7EC7D,40px 220px #F7EC7D,80px 220px #F7EC7D,120px 220px #F7EC7D,160px 220px #F7EC7D,200px 220px #F7EC7D,240px 220px #F7EC7D;}
