@@ -1,0 +1,6 @@
+.main{background:#94B31F;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.circle{height:180px;width:180px;border:30px solid #FFFFFF;border-radius:50%;}
+.line{position:absolute;height:240px;width:30px;background:#5F5F1E;}
+.l2{transform:rotate(45deg);}
+.l3{transform:rotate(-45deg);}
+.circle2{height:180px;width:180px;background:#94B31F;position:absolute;border-radius:50%;}
