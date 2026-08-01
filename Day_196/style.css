@@ -1,0 +1,4 @@
+.main{background:#065840;display:flex;justify-content:center;align-items:center;height:300px;width:400px}
+div{position:absolute;background:#C3C3A8;}
+.box{height:120px;width:120px;top:65px;left:115px;box-shadow:50px 50px #C3C3A8;}
+.circle{height:165px;width:165px;border-radius:50%;}
