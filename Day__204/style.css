@@ -1,0 +1,6 @@
+.main{background:#3157B4;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.rectangle{height:80px;width:200px;background:#84BE8D;}
+.half{position:absolute;height:250px;width:140px;background:#84BE8D;border-radius:120px;}
+.h1{clip-path:inset(0 0 0 50% );left:-40px;}
+.h2{clip-path:inset(0 50% 0 0);left:300px;}
+  .box{position:absolute;height:80px;width:80px;background:#3157B4;left:20px;box-shadow:280px 0 #3157B4;}
