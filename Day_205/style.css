@@ -1,0 +1,6 @@
+.main{background:#94B31F;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+body{margin:0px;}
+.rect{height:280px;width:100px;}
+.box{position:absolute;height:50px;width:100px;left:10px;top:10px;box-shadow:280px 0px #5F5F1E,0px 230px #5F5F1E,280px 230px #5F5F1E;}
+.circle{height:30px;width:30px;background:#FFFFFF;position:absolute;border-radius:50%;top:20px;left:115px;box-shadow:140px 0px #FFFFFF,0px 230px #FFFFFF,140px 230px #FFFFFF;}
+.rect,.box{background:#5F5F1E;}
