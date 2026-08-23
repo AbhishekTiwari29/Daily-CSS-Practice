@@ -1,0 +1,4 @@
+.main{background:#F3AC3C;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.box{height:110px;width:180px;border:20px solid;}
+.hang{height:10px;width:60px;position:absolute;border:20px solid;top:45px;border-radius:30%;}
+.line{position:absolute;height:20px;width:40px;background:#000000;box-shadow:20px 0px,-20px 0px,80px 0px,-80px 0px;}
