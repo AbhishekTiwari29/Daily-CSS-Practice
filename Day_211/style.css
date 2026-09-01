@@ -1,0 +1,6 @@
+.main{background:#BADE37;display:Flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.circle{height:120px;width:120px;border:30px solid #333333;border-radius:50%;}
+div{position:absolute;}
+.line{height:200px;width:20px;background:#BADE37;}
+.line2{height:20px;width:200px;background:#BADE37;top:110px;box-shadow:0px 60px #BADE37;}
+.box{height:50px;width:50px;background:#BADE37;left:100px;}
