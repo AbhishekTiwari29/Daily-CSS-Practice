@@ -1,0 +1,5 @@
+.main{background:#A84A4B;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+div{position:absolute;background:#F5E3B5;}
+.box{height:100px;width:100px;}
+.box2{height:50px;width:50px;top:50px;left:100px;box-shadow:150px 0px #F5E3B5,150px 150px #F5E3B5,0px 150px #F5E3B5;}
+.box3{height:25px;width:25px;left:75px;top:25px;box-shadow:225px 0px #F5E3B5,225px 225px #F5E3B5,0px 225px #F5E3B5;}
