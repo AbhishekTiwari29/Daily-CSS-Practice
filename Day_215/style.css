@@ -1,0 +1,5 @@
+.main{background:#FFFFFF;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.square{height:90px;width:90px;background:#6D57C4;position:absolute;border-radius:10px;}
+.s2{left:35px;transform:rotate(-15deg)}
+.s3{left:275px;transform:rotate(15deg)}
+.line{position:absolute;width:20px;height:100px;background:#FFFFFF}
