@@ -1,0 +1,4 @@
+.main{height:300px;width:400px;background:#FFFFFF;display:flex;justify-content:center;align-items:center;}
+.bottom{height:240px;width:160px;background:#333333;border-radius:130px;clip-path:inset(50% 0 0 0 )}
+.top{height:60px;width:60px;position:absolute;border:20px solid #333333;border-radius:50%;top:70px;clip-path:inset(0 0 50% 0 )}
+.bar{Height:40px;width:20px;background:#333333;position:absolute;right:1278px;top:120px;}
