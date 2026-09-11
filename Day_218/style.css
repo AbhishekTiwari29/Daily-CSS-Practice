@@ -1,0 +1,3 @@
+.main{background:#FFD0BD;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.oval{height:140px;width:60px;border:20px solid #6B86E1;border-radius:130px;}
+.line{height:20px;width:60px;position:absolute;background:#6B86E1;box-shadow:80px -10px #6B86E1,-80px 10px #6B86E1,60px 30px #6B86E1,-60px -30px #6B86E1}
