@@ -1,0 +1,9 @@
+.main{background:#F8B140;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.line{height:80px;width:30px;background:#465792;}
+.line2{height:30px;width:80px;background:#465792;position:absolute;}
+.circle{height:50px;width:50px;border:10px solid #465792;position:absolute;border-radius:50%;}
+.c1{top:20px;}
+.c2{left:70px;}
+.c3{left:260px;}
+.c4{top:210px;}
+.big{position:absolute;height:190px;width:190px;border-radius:50%;border:50px solid #F8B140}
