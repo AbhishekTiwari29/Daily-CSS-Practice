@@ -1,0 +1,5 @@
+.main{background:#4C4C6B;display:flex;justify-content:center;align-items:center;height:300px;width:400px;}
+.box{height:180px;width:120px;border:20px solid #FAE29E;border-radius:40px;}
+.block{height:250px;width:100px;position:absolute;background:#4C4C6B;left:240px;}
+.line{height:20px;width:150px;position:absolute;background:#FAE29E;left:170px;}
+.line2{height:80px;width:20px;position:absolute;background:#FAE29E;left:310px;}
